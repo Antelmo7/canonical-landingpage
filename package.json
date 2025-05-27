@@ -16,5 +16,6 @@
   "bugs": {
     "url": "https://github.com/Antelmo7/landing-antelmo/issues"
   },
-  "homepage": "https://github.com/Antelmo7/landing-antelmo#readme"
+  "homepage": "https://github.com/Antelmo7/landing-antelmo#readme",
+  "type": "module"
 }
